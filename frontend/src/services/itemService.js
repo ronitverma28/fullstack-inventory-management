@@ -1,4 +1,4 @@
-const BASE_URL = "http://192.168.1.10:8080";
+const BASE_URL = "https://fullstack-inventory-management-qere.onrender.com";
 // Replace YOUR_LOCAL_IP with your computer's IPv4 address (example: http://192.168.1.10:8080).
 
 const handleResponse = async (response) => {
